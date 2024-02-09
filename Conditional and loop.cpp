@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    /*if condition
+   //if condition
     int a = 10;
     int b = 4;
     if (a > b)
@@ -12,12 +12,12 @@ int main()
     if (a < b)
     {
         cout << "answer is b " << endl;
-    }*/
+    }
 
     /*if - else condition*/
 
     /*example 1*/
-    /*int a, b;
+    int a, b;
 
     cin >> a >> b;
 
@@ -28,10 +28,10 @@ int main()
     else
     {
         cout << "answer is a" << endl;
-    }*/
+    }
 
     // example 2
-   /* int a;
+    int a;
     cout << "enter the no " << endl;
     cin >> a;
     if (a < 0)
@@ -48,12 +48,12 @@ int main()
         {
             cout << "A is 0" << endl;
         }
-    }*/
+    }
 
     // if - else Condition
 
     // example 1
-   /* int purchase;
+    int purchase;
 
     cin >> purchase;
 
@@ -68,10 +68,10 @@ int main()
     else
     {
         cout << "not purchase" << endl;
-    }*/
+    }
 
     // example 2
-   /* char a;
+    char a;
     cin >> a;
     if (a >= 'a' && a <= 'z')
     {
@@ -84,10 +84,10 @@ int main()
     else if (a >= '0' && a <= '9')
     {
         cout << "it is numeric " << endl;
-    }*/
+    }
 
     // Loop Concept
-    /*  1 - while  loop
+     // 1 - while  loop
     int n; 
     
     cin>> n;
@@ -101,7 +101,8 @@ int main()
         
 
     }
-    cout << "value of s is " << s << endl;*/
+    cout << "value of s is " << s << endl;
+    
       int n  ;
       cin>> n;
       int i = 1;
