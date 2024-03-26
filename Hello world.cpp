@@ -2,5 +2,5 @@
 using namespace std;
 int main () {
     cout << "gaurav is god boy" << endl;
-    cout << "saurabh is a god boy too";
+    cout << "saurabh is a god boy too" <<endl;
 }
