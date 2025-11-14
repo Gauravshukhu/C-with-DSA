@@ -30,11 +30,12 @@ int BinarySearch(int arr[] , int size , int key){
     return -1;
 }
 int main(){
-    int arr[6]={2,3,4,5,7,7};
+    int arr[7]={2,3,4,5,7,7,8};
      int arr1[5]={2,3,4,5,7};
     int evenindex = BinarySearch( arr , 6 , 7);
     cout<<" index of 7 in the array" <<" "<< evenindex << " " <<endl;
     int oddindex = BinarySearch( arr1 , 5, 4);
     cout<<" index of 4 in the array" <<" "<< oddindex << " " <<endl;
+
 
 }
